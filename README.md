@@ -26,5 +26,5 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/Mito-xz"><img src="https://github-readme-stats.vercel.app/api?username=Mito-xz&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/Moto-xz"><img src="https://streak-stats.demolab.com/?user=Mito-xz&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Mito-xz"><img src="https://streak-stats.demolab.com/?user=Mito-xz&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/Mito-xz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mito-xz &theme=chartreuse-dark&layout=compact"></a></p> 
