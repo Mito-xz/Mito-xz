@@ -5,9 +5,10 @@
 </div>
 
 ### Current activities 
-- 👨‍💻 I am Programmer & junior developer
+- 👨‍💻 I am Programmer & senior developer
 - 🌱 I learn a lot about the world of coding
 - 📧 My Business Email mitonohikari@gmail.com
+- ✌🏻 I rarely contribute here🗿
 
 
 ### Connect with me ☎️
